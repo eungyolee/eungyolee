@@ -1,4 +1,4 @@
-<img src="profile.png" height="180">
+<img src="profile.jpg" height="180">
 
 <h1> Hello world! I'm EunGyo Lee! </h1>
 
