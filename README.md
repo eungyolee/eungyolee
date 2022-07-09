@@ -4,25 +4,6 @@
 
 <h2>I am a middle school student in Korea who dreams of becoming a programmer.</h2>
 
-<p>
-  <h2>My Social Media</h2>
-  <em>
-  <h3>
-    Discord
-    <a href="https://discord.com/users/782167918452146176">
-      핀셋#2228
-    </a>
-  </h3>
-  <h3>
-    Blog
-      <a href="#">
-        asdf
-      </a>
-    </h3>
-    </em>
-  </em>
-</p>
-
 <br />
 <h2> My development stack </h2>
 
