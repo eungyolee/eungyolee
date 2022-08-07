@@ -1,6 +1,9 @@
 <img src="./Profile.jpg" height="180">
 
-<h1> ``` Hello world! <br> 저는 학생 개발자(가 되고 싶은) 이은교입니다! ``` </h1>
+```
+Hello world!  
+저는 학생 개발자(가 되고 싶은) 이은교입니다!
+```
 
 <h2>I am a middle school student in Korea who dreams of becoming a programmer.</h2>
 
