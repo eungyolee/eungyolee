@@ -1,43 +1,27 @@
-<img src="./Profile.jpg" height="180">
+<h1 align="center">Hello, world! 👋</h1>
+<h3 align="center">저는 개발자를 꿈꾸며 노력(안)하는 학생 이은교입니다!</h3>
 
-```
-Hello world!  
-저는 학생 개발자(가 되고 싶은) 이은교입니다!
-```
+- 🔭 Portfolio : [https://eungyolee.github.io/](https://eungyolee.github.io
 
-<h2>I am a middle school student in Korea who dreams of becoming a programmer.</h2>
+- 👯 Yeomgyeong-Wiki : [https://yeomgyeong-wiki.web.app](https://yeomgyeong-wiki.web.app/)
 
-<br />
-<h2> My development stack </h2>
+- 📫 Email : **vlstpt812@gmail.com**
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C Language](https://img.shields.io/badge/-C%20Language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Nodejs-43853d.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Nextjs-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
+- ⚡ Fun fact : **HTML은 프로그래밍 언어가 아닙니다.**
 
-<br/>
+- 🌱 저는 최근 **Firebase와 TypeScript를 공부하고 있습니다!**
 
-<h2> Using tools </h2>
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=VisualStudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-
-<b><em><a href="https://github.com/eungyolee?tab=repositories">My Projects...</a></em></b>
-
----
-
-<p align="center">
-  Thanks for viewing my github profile!
+<h3 align="left">Connect me </h3>
+<p align="left">
+<a href="https://www.facebook.com/profile.php?id=100025765211896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="이은교" height="30" width="40" /></a>
+<a href="https://discord.com/users/782167918452146176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="782167918452146176" height="35" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eungyolee&show_icons=true&locale=en&layout=compact" alt="eungyolee" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eungyolee&show_icons=true&locale=en" alt="eungyolee" /></p>  
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eungyolee" alt="eungyolee" /></a> </p>
