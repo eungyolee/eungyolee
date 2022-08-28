@@ -1,15 +1,15 @@
 <h1 align="center">Hello, world! 👋</h1>
 <h3 align="center">저는 개발자를 꿈꾸며 노력(안)하는 학생 이은교입니다!</h3>
 
-- 🔭 Portfolio : [https://eungyolee.github.io/](https://eungyolee.github.io)
+- 🔭 Portfolio : [https://eungyolee.github.io/portfolio](https://eungyolee.github.io/portfolio)
 
 - 👯 Yeomgyeong-Wiki : [https://yeomgyeong-wiki.web.app](https://yeomgyeong-wiki.web.app/)
 
-- 📫 Email : **vlstpt812@gmail.com**
+- 📫 Email : vlstpt812@gmail.com
 
-- ⚡ Fun fact : **HTML은 프로그래밍 언어가 아닙니다.**
+- ⚡ Fun fact : HTML은 프로그래밍 언어가 아닙니다.
 
-- 🌱 저는 최근 **Firebase와 TypeScript를 공부하고 있습니다!**
+- 🌱 저는 최근 Firebase와 TypeScript를 공부하고 있습니다!
 
 <h3 align="left">Connect me </h3>
 <p align="left">
