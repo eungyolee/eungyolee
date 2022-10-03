@@ -5,7 +5,7 @@
 
 - 👯 Yeomgyeong-Wiki : [https://yeomgyeong-wiki.web.app](https://yeomgyeong-wiki.web.app/)
 
-- 📫 Email : vlstpt812@gmail.com
+- 📫 Email : eunkyo081223@naver.com
 
 - ⚡ Fun fact : HTML은 프로그래밍 언어가 아닙니다.
 
