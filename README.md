@@ -1,9 +1,9 @@
 <h1 align="center">Hello, world! 👋</h1>
 <h3 align="center">저는 개발자를 꿈꾸며 노력하는 학생 이은교입니다!</h3>
 
-- 🔭 Portfolio : [https://eungyolee.github.io](https://eungyolee.github.io/)
+- 🔭 Portfolio : [https://portfolio.eungyolee.studio](https://portfolio.eungyolee.studio)
 
-- 👯 Yeomgyeong-Wiki : [https://yeomgyeong-wiki.web.app](https://yeomgyeong-wiki.web.app/)
+- 👯 Yeomgyeong-Wiki : [https://ymgng-wiki.eungyolee.studio](https://ymgng-wiki.eungyolee.studio)
 
 - 📫 Email : eunkyo081223@naver.com
 
