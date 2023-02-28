@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact : HTML은 프로그래밍 언어가 아닙니다.
 
-- 🌱 저는 최근 Firebase, TypeScript, Vue.js를 공부하고 있습니다!
+- 🌱 저는 최근 React.js를 공부하고 있습니다!
 
 <h3 align="left">Connect me </h3>
 <p align="left">
