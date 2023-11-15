@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eungyolee&show_icons=true&locale=en" alt="eungyolee" /></p>  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eungyolee" alt="eungyolee" /></a> </p>
+
+![solved.ac](http://mazandi.herokuapp.com/api?handle=vlstpt812&theme=dark")
+[![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vlstpt812)](https://solved.ac/vlstpt812)
