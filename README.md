@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact : HTML은 프로그래밍 언어가 아닙니다.
 
-- 🌱 저는 최근 React.js를 공부하고 있습니다!
+- 🌱 저는 최근 알고리즘을 공부하고 있습니다!
 
 <h3 align="left">Connect me </h3>
 <p align="left">
@@ -24,5 +24,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eungyolee" alt="eungyolee" /></a> </p>
 
-![solved.ac](http://mazandi.herokuapp.com/api?handle=vlstpt812&theme=dark")
+![solved.ac](https://mazandi.herokuapp.com/api?handle=vlstpt812&theme=dark)
 [![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vlstpt812)](https://solved.ac/vlstpt812)
