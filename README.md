@@ -9,6 +9,11 @@
 
 - 🌱 저는 최근 알고리즘을 공부하고 있습니다!
 
+<h3 align="left">Education</h3>
+- 염경중학교 졸업 (예정)
+
+- 선린인터넷고등학교 119기 소프트웨어과 신입생 (SRIHS 119th Software)
+  
 <h3 align="left">Connect me </h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100025765211896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="이은교" height="30" width="40" /></a>
