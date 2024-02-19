@@ -11,7 +11,7 @@
 
 <h3 align="left">Education</h3>
 
-- 염경중학교 졸업 (예정)
+- 염경중학교 졸업
 
 - 선린인터넷고등학교 119기 소프트웨어과 신입생 (SRIHS 119th Software)
   
