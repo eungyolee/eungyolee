@@ -13,7 +13,7 @@
 
 - 염경중학교 졸업
 
-- 선린인터넷고등학교 119기 소프트웨어과 신입생 (SRIHS 119th Software)
+- 선린인터넷고등학교 119기 소프트웨어과 1학년 (SRIHS 119th Software)
   
 <h3 align="left">Connect me </h3>
 <p align="left">
