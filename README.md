@@ -1,6 +1,5 @@
 <h1 align="center">Hello, world! 👋</h1>
 <h3 align="center">저는 개발자를 꿈꾸며 노력하는 학생 이은교입니다!</h3>
-<h1 align="center">왕렬쌤 사랑해요</h1>
 
 - 🔭 Portfolio : [https://eungyolee.tech](https://eungyolee.tech)
 
