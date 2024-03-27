@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world! 👋</h1>
-<h3 align="center">저는 개발자를 꿈꾸며 노력하는 학생 이은교입니다!</h3>
+<h3 align="center">저는 선린인터넷고등학교 소프트웨어과 학생 이은교입니다.</h3>
 
 - 🔭 Portfolio : [https://eungyolee.tech](https://eungyolee.tech)
 
@@ -14,6 +14,8 @@
 - 염경중학교 졸업
 
 - 선린인터넷고등학교 119기 소프트웨어과 1학년 (SRIHS 119th Software)
+
+- 백엔드 개발 동아리 AnA 15기 부원
   
 <h3 align="left">Connect me </h3>
 <p align="left">
