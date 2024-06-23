@@ -32,5 +32,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eungyolee" alt="eungyolee" /></a> </p>
 
-![solved.ac](https://mazandi.herokuapp.com/api?handle=vlstpt812&theme=dark)
-[![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vlstpt812)](https://solved.ac/vlstpt812)
+![solved.ac](https://mazandi.herokuapp.com/api?handle=eg_lee&theme=dark)
+[![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eg_lee)](https://solved.ac/eg_lee)
