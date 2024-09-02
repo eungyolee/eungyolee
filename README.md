@@ -34,3 +34,10 @@
 
 ![solved.ac](https://mazandi.herokuapp.com/api?handle=eg_lee&theme=dark)
 [![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eg_lee)](https://solved.ac/eg_lee)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/eungyolee"
+  width="600"
+  height="300"
+/>
+</a>
