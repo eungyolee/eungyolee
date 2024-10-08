@@ -17,7 +17,7 @@
 
 - 백엔드 개발 동아리 AnA 15기 부원
   
-<h3 align="left">Connect me </h3>
+<h3 align="left">Contact me </h3>
 <p align="left">
 <a href="https://discord.com/users/782167918452146176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="782167918452146176" height="35" width="40" /></a>
 <a href="https://instagram.com/eungyolee_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eungyolee_" height="35" width="40" /></a>
