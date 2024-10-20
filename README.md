@@ -3,7 +3,7 @@
 
 - 🔭 Portfolio : [https://eungyolee.tech](https://eungyolee.tech)
 
-- 📫 Email : eunkyo081223@naver.com
+- 📫 Email : me@eungyolee.kr
 
 - ⚡ Fun fact : HTML은 프로그래밍 언어가 아닙니다.
 
