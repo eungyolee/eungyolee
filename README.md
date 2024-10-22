@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world! 👋</h1>
 <h3 align="center">저는 선린인터넷고등학교 소프트웨어과 학생 이은교입니다.</h3>
 
-- 🔭 Portfolio : [https://eungyolee.tech](https://eungyolee.tech)
+- 🔭 Portfolio : [https://eungyolee.kr](https://eungyolee.kr)
 
 - 📫 Email : me@eungyolee.kr
 
