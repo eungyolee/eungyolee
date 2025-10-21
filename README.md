@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world! 👋</h1>
-<h3 align="center">저는 선린인터넷고등학교 소프트웨어과 119기 학생 이은교입니다.</h3>
+<!-- <h3 align="center">저는 선린인터넷고등학교 소프트웨어과 119기 학생 이은교입니다.</h3> -->
 
-- 🔭 Portfolio : [https://eungyolee.kr](https://eungyolee.kr)
+<!-- - 🔭 Portfolio : [https://eungyolee.kr](https://eungyolee.kr) -->
 
 - 📫 Email : me@eungyolee.kr
 
@@ -9,9 +9,9 @@
 
 - [염경중학교](https://yeomgyeong.sen.ms.kr) 졸업
 
-- [선린인터넷고등학교](https://sunrint.sen.hs.kr) 119기 소프트웨어과 1학년 (SRIHS 119th Software)
+- [선린인터넷고등학교](https://sunrint.sen.hs.kr) 119기 소프트웨어과 (Sunrin Internet High School 119th Dept. of Software)
 
-- 백엔드 개발 동아리 [AnA](https://instagram.com/sunrin_ana) 15기 부원
+- 서버 개발 동아리 [AnA](https://ana.st) 15기 부원
   
 <h3 align="left">Contact me </h3>
 <p align="left">
