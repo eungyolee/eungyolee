@@ -35,6 +35,10 @@
     <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=eungyolee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </p>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eungyolee&layout=compact&langs_count=12&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=eungyolee&layout=compact&langs_count=12&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=eungyolee&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=eungyolee&show_icons=true&include_all_commits=true&theme=dark)  
+
+
 <!-- ![solved.ac](https://mazandi.herokuapp.com/api?handle=eg_lee&theme=dark) -->
 [![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eg_lee)](https://solved.ac/eg_lee)  
 
