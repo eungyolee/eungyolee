@@ -32,7 +32,7 @@
     <img src="https://github-profile-trophy.vercel.app?username=eungyolee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </p> -->
 <p align="left">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=eungyolee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=eungyolee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </p>
 
 <!-- ![solved.ac](https://mazandi.herokuapp.com/api?handle=eg_lee&theme=dark) -->
